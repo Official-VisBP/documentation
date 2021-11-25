@@ -1,2 +1,2 @@
-# documentation
+# VisBP
 Documentation for VisBP packs
